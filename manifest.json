@@ -1,0 +1,17 @@
+{
+   "background": {
+      "scripts": ["background.js"]
+   },
+   "browser_action": {
+   },
+   "description": "This extension is POC",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "manifest_version": 2,
+   "name": "Capture A/V POC",
+   "permissions": [ "contentSettings" ],
+   "version": "0.1"
+}
